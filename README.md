@@ -1,6 +1,6 @@
 # Simple CRM
 
-Ein modernes CRM-Projekt mit React, TypeScript und Express.
+Ein kleines CRM-Projekt mit React, TypeScript und Express.
 
 ## Features
 - Kundenliste mit Suche, Sortierung, Bearbeiten, Löschen und Anlegen
